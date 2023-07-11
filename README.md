@@ -1,3 +1,10 @@
+How to run the project
+#prerequisite install node js and MongoDB on your pc
+#first download both the front-end and back-end files of the project
+ #link on the below link
+  https://drive.google.com/drive/folders/17Q3r_sxytMl792fV_OQ_3F79FWxOTWTR?usp=sharing
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
